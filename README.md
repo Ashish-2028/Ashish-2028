@@ -49,9 +49,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashish-2028&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish-2028&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-2028&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish-2028&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -59,7 +59,11 @@
 ### 🐍 Contribution Journey
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ashish-2028/Ashish-2028/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashish-2028/Ashish-2028/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashish-2028/Ashish-2028/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ashish-2028/Ashish-2028/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
